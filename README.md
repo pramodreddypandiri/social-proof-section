@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Git Hub](https://github.com/pramodreddypandiri/social-proof-section)
-- Live Site URL: [Live Site](https://pprsocailproofsection)
+- Live Site URL: [Live Site](https://pprsocailproofsection.netlify.app/)
 
 ## My process
 
